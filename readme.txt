@@ -6,6 +6,7 @@
    Forums:  http://www.tomatocart.com/community/75-discussion-for-tomatocart-v20.html
    Version: v2.0 Alpha4
    
+   http://www.webhostmm.com
  -- This release is only for developers and users who are participating in its test and are providing feedback. 
     Other users should wait until v2.0 stable version for a feature complete and production ready release.
    
